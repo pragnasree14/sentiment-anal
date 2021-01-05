@@ -1,2 +1,1 @@
-# sentiment-anal
-sentiment analysis using python
+print(analysis.sentiment)
